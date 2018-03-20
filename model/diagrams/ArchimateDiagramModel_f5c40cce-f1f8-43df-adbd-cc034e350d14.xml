@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="Business Layer"
     id="f5c40cce-f1f8-43df-adbd-cc034e350d14">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
